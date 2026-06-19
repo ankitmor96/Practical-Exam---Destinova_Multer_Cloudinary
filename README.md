@@ -54,7 +54,7 @@ project-root/
 
 
 1️⃣ Clone repository
-git clone https://github.com/your-username/destinova-api.git
+git clone [https://github.com/your-username/destinova-api.git](https://github.com/ankitmor96/Practical-Exam---Destinova_Multer_Cloudinary)
 cd destinova-api
 
 
