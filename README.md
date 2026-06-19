@@ -72,6 +72,10 @@ MONGO_URI=mongodb://127.0.0.1:27017/destinova
 
 
 # Cloudinary
+
+<img width="1906" height="970" alt="Screenshot 2026-06-19 131341" src="https://github.com/user-attachments/assets/5ec83468-29f5-4c33-841b-319ac32d37e1" />
+
+
 CLOUDINARY_NAME=your_cloud_name
 CLOUDINARY_API=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
